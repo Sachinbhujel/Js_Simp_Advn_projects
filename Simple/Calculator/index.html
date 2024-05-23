@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h2>Simple Calculator</h2>
+        <div class="calculator">
+            <div id="total_shown">0</div>
+            <div class="result_below_hr"></div>
+            <div class="number_div">
+                <p onclick="number(this)">1</p>
+                <p onclick="number(this)">2</p>
+                <p onclick="number(this)">3</p>
+                <p onclick="number(this)">+</p>
+            </div>
+            <div class="number_div">
+                <p onclick="number(this)">4</p>
+                <p onclick="number(this)">5</p>
+                <p onclick="number(this)">6</p>
+                <p onclick="number(this)">-</p>
+            </div>
+            <div class="number_div">
+                <p onclick="number(this)">7</p>
+                <p onclick="number(this)">8</p>
+                <p onclick="number(this)">9</p>
+                <p onclick="number(this)">*</p>
+            </div>
+            <div class="number_div number_div4">
+                <div class="equal_clear_div">
+                    <p onclick="clear_result()" id="clear">C</p>
+                    <p onclick="answer()" id="equal">=</p>
+                </div>
+                <p onclick="number(this)">/</p>
+            </div>
+        </div>
+
+
+        <script src="index.js"></script>
+    </body>
+</html>
