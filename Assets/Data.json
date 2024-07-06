@@ -10,7 +10,7 @@
       "item_title": "Anarkali Pure Cotton Kurta",
       "item_info": "Luxurious silk lehenga with intricate zari, resham embroidery, and sequins work. Perfect for weddings and special occasions.",
       "item_price": "700",
-      "item_discount": "40%",
+      "item_discount": "40%"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "item_title": "Men Grey Sustainable Casual Shirt",
       "item_info": "Stay chic and comfortable in our Cotton Casual Dress. Made from breathable cotton fabric.",
       "item_price": "900",
-      "item_discount": "50%",
+      "item_discount": "50%"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "item_title": "Men Typography Printed Sleeveless Cotton",
       "item_info": "Enhance your workout with our Performance Men's Activewear Set. Designed for comfort and performance.",
       "item_price": "540",
-      "item_discount": "48%",
+      "item_discount": "48%"
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "item_title": "Halter Neck Padded Ruched One Piece Leg Suit",
       "item_info": "Elevate your fitness routine with our High-Performance Women's Activewear Set. Crafted from breathable.",
       "item_price": "730",
-      "item_discount": "60%",
+      "item_discount": "60%"
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
       "item_title": "Typography Printed Drop-Shoulder Sleeves",
       "item_info": "Discover effortless style with our Stylish Western Dress. Made from high-quality fabric, this dress combines elegance with comfort.",
       "item_price": "870",
-      "item_discount": "70%",
+      "item_discount": "70%"
     },
     {
       "id": 6,
@@ -70,7 +70,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "730",
-      "item_discount": "54%",
+      "item_discount": "54%"
     },
     {
       "id": 7,
@@ -82,7 +82,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "450",
-      "item_discount": "47%",
+      "item_discount": "47%"
     },
     {
       "id": 8,
@@ -94,7 +94,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "2100",
-      "item_discount": "71%",
+      "item_discount": "71%"
     },
     {
       "id": 9,
@@ -106,7 +106,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "680",
-      "item_discount": "49%",
+      "item_discount": "49%"
     },
     {
       "id": 10,
@@ -118,7 +118,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "280",
-      "item_discount": "50%",
+      "item_discount": "50%"
     },
     {
       "id": 11,
@@ -130,7 +130,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "599",
-      "item_discount": "61%",
+      "item_discount": "61%"
     },
     {
       "id": 12,
@@ -142,7 +142,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "899",
-      "item_discount": "39%",
+      "item_discount": "39%"
     },
     {
       "id": 13,
@@ -154,7 +154,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "699",
-      "item_discount": "47%",
+      "item_discount": "47%"
     },
     {
       "id": 14,
@@ -166,7 +166,7 @@
       "item_title": "",
       "item_info": "",
       "item_price": "399",
-      "item_discount": "67%",
+      "item_discount": "67%"
     }
   ]
 }
